@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hand Gesture Detection
 
 Simple hand gesture/finger counting project using OpenCV and Python.
@@ -8,3 +9,6 @@ Simple hand gesture/finger counting project using OpenCV and Python.
 
 ## Author
 M Suganthi
+=======
+# IOC-Detecting-Hand-Gesture-Using-OpenCV
+>>>>>>> 2a0665e9a4a8ec80ae593caf5b659894b6a4fb78
